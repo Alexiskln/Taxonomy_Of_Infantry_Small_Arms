@@ -1,0 +1,185 @@
+{
+  "namespace": "Infantry Small Arms",
+  "expanded": "Infantry Small Arms",
+  "description": "Taxonomy of infantry small arms. Based on https://www.militaryfactory.com/smallarms/guns-by-type.asp",
+  "version": 1,
+  "predicates": [
+    {
+      "value": "Weapons type",
+      "expanded": "Infantry combat",
+      "description": "Small Arms by Type"
+    }
+  ],
+  "values": [
+    {
+      "predicate": "Weapons type",
+      "entry": [
+        {
+          "value": "Anti-Aircraft",
+          "expanded": "Anti Aircraft weapons",
+          "description": "Anti-aircraft guns are weapons designed to attack aircraft"
+        },
+        {
+          "value": "Anti-Tank",
+          "expanded": "Anti Tank weapons",
+          "description": "Anti-tank guns are guns designed to destroy armored vehicles from defensive positions"
+        },
+        {
+          "value": "Ballistics-Chart",
+          "expanded": "Ballistics Chart",
+          "description": "Ballistic Weapons are weapon systems broadly categorized as those which fire a tangible projectile (ie, not a directed energy weapon such as a laser or PPC) that typically is unpowered (as opposed to missiles) and typically unguided"
+        },
+        {
+          "value": "Bullpup",
+          "expanded": "Bullpup Assault",
+          "description": "A bullpup is a firearm with its action behind the trigger. This creates shorter weapons in comparison to rifles with the same size of gun barrel"
+        },
+        {
+          "value": "Carbines",
+          "expanded": "Carbines",
+          "description": "Carbines is a long gun firearm but with a shorter barrel than a standard rifle or musket."
+        },
+        {
+          "value": "Flamethrowers",
+          "expanded": "Flamethrowers",
+          "description": "flamethrowers use flammable liquids thickened into a consistency similar to napalm"
+        },
+        {
+          "value": "Flintlocks",
+          "expanded": "Flintlock Firearms",
+          "description": "Flintlock is a general term for any firearm that uses a flint striking ignition mechanism."
+        },
+        {
+          "value": "Grenades (Hand)",
+          "expanded": "Hand Grenades",
+          "description": "A grenade is an explosive weapon typically thrown by hand"
+        },
+        {
+          "value": "Grenades (Launchers)",
+          "expanded": "Grenade Launchers",
+          "description": "A grenade launcher is a weapon that fires a specially-designed large-caliber projectile, often with an explosive, smoke or gas warhead."
+        },
+        {
+          "value": "Rifle Grenades",
+          "expanded": "Rifle Grenades",
+          "description": "A rifle grenade is a grenade that uses a rifle-based launcher to permit a longer effective range than would be possible if the grenade were thrown by hand."
+        },
+        {
+          "value": "Grenades (Under-Barrel)",
+          "expanded": "Under-Barrel Grenade Launchers (UBGL)",
+          "description": "The under-barrel grenade launcher, also known as an over-under, was a special forces weapon designed as a miniature rocket/grenade launcher. "
+        },
+        {
+          "value": "Handguns (Pistols)",
+          "expanded": "Military and Civilian Pistols",
+          "description": ""
+        },
+        {
+          "value": "Handguns (Modern)",
+          "expanded": "Modern Pistols",
+          "description": "A pistol is a type of handgun, the most common types of which today are the semi-automatic pistol and the derringer."
+        },
+        {
+          "value": "Handguns (Machine Pistols)",
+          "expanded": "Machine Pistols",
+          "description": "A machine pistol is typically a handgun-style submachine gun, capable of fully automatic or burst fire."
+        },
+        {
+          "value": "Handguns (Revolvers)",
+          "expanded": "Revolvers",
+          "description": "A revolver (also called a wheel gun) is a repeating handgun that has a revolving cylinder containing multiple chambers and at least one barrel for firing."
+        },
+        {
+          "value": "Handguns (Semi-Automatic)",
+          "expanded": "Semi-Automatic Pistols",
+          "description": "Semi-auto handguns, or semi-automatic pistols, are handguns that use the energy from the prior shot to reload the chamber for the next shot"
+        },
+        {
+          "value": "Machine Guns (Light)",
+          "expanded": "Light Machine Guns (LMG)",
+          "description": "A light machine gun (LMG) is a machine gun designed to be employed by an individual soldier, with or without an assistant"
+        },
+        {
+          "value": "Machine Guns (Heavy)",
+          "expanded": "Heavy Machine Guns (HMG)",
+          "description": "A heavy machine gun or HMG is a class of machine gun implying greater characteristics than general purpose or medium machine guns"
+        },
+        {
+          "value": "Mortars (Infantry)",
+          "expanded": "Mortars (Infantry-Level)",
+          "description": "A mortar is an artillery weapon which fires explosive shells. The shells are known as (mortar) bombs."
+        },
+        {
+          "value": "Muskets",
+          "expanded": "Muskets",
+          "description": "A musket is a muzzle-loaded long gun that appeared as a smoothbore weapon in the early 16th century, at first as a heavier variant of the arquebus, capable of penetrating heavy armor."
+        },
+        {
+          "value": "Rocket Launchers",
+          "expanded": "Rocket Launchers (Man-Portable)",
+          "description": "A rocket launcher is a device that launches an unguided, rocket-propelled projectile"
+        },
+        {
+          "value": "Rifles (Anti Material)",
+          "expanded": "Anti-Material and Anti-Tank Rifles",
+          "description": "Anti-materiel rifle. An anti-materiel rifle (AMR) is a rifle that is designed for use against military equipment (materiel), rather than against other combatants (anti-personnel)."
+        },
+        {
+          "value": "Rifles (Assault)",
+          "expanded": "Assault Rifles",
+          "description": ""
+        },
+        {
+          "value": "Rifles (Automatic)",
+          "expanded": "Automatic and Self-Loading Rifles",
+          "description": "An assault rifle is a rifle that uses an intermediate cartridge, a detachable magazine, and can switch between semi-automatic/fully automatic fire."
+        },
+        {
+          "value": "Rifles (Battle)",
+          "expanded": "Battle Rifles",
+          "description": "Battle rifles are full-powered rifles, full length, automatic or semi-automatic rifles, that use detachable box magazines"
+        },
+        {
+          "value": "Rifles (Bolt-Action)",
+          "expanded": "Bolt-Action Rifles",
+          "description": "Bolt action rifles are recognized by that the user has to manually rotate the bolt for chambering and primary extraction."
+        },
+        {
+          "value": "Rifles (Lever-Action)",
+          "expanded": "Lever-Action Rifles",
+          "description": "Lever action is a type of firearm action which uses a lever located around the trigger guard"
+        },
+        {
+          "value": "Rifles (Recoilless)",
+          "expanded": "Recoilless Rifles",
+          "description": "Recoilless is a type of lightweight artillery system or man-portable launcher that is designed to eject some form of countermass such as propellant gas from the rear of the weapon at the moment of firing"
+        },
+        {
+          "value": "Rifles (Semi-Automatic)",
+          "expanded": "Semi-Automatic Rifles",
+          "description": "Semi-automatic rifles are most commonly used in civilian America for sport shooting, hunting, and self-defense against home invasions."
+        },
+        {
+          "value": "Rifles (Sniper)",
+          "expanded": "Sniper Rifles",
+          "description": "Sniper rifles allow specialist soldiers to hit intended targets from long distances"
+        },
+        {
+          "value": "Shotguns",
+          "expanded": "Shotguns (Military and Civilian)",
+          "description": "A shotgun is a firearm that is usually designed to be fired from the shoulder, which uses the energy of a fixed shell to fire a number of small spherical pellets"
+        },
+        {
+          "value": "Silenced / Suppressed",
+          "expanded": "Silenced and Suppressed Firearms",
+          "description": "A silencer, also known as a sound suppressor, suppressor or sound moderator, is a muzzle device that reduces the acoustic intensity of the muzzle report (sound of gunfire) and eliminates muzzle flash"
+        },
+        {
+          "value": "Submachine Guns",
+          "expanded": "Submachine Guns (SMG)",
+          "description": "A submachine gun, abbreviated SMG, is a magazine-fed, automatic carbine designed to shoot handgun cartridges."
+        }  
+      ]
+    }
+  ]
+}
